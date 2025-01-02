@@ -5,7 +5,7 @@ import {getAuth} from 'firebase/auth';
 // Firebase configuration object containing credentials and project details
 // web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA-uPzL8C5XPJ3BuPvJjLe-jcm4646x1As",
+  apiKey: "",
   authDomain: "chandra-text-ecommerce.firebaseapp.com",
   projectId: "chandra-text-ecommerce",
   storageBucket: "chandra-text-ecommerce.appspot.com",
