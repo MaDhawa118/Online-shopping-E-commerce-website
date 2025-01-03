@@ -6,9 +6,9 @@ import {getAuth} from 'firebase/auth';
 // web app's Firebase configuration
 const firebaseConfig = {
   apiKey: "",
-  authDomain: "chandra-text-ecommerce.firebaseapp.com",
-  projectId: "chandra-text-ecommerce",
-  storageBucket: "chandra-text-ecommerce.appspot.com",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
   messagingSenderId: "",
   appId: ""
 };
